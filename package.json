@@ -1,0 +1,24 @@
+{
+  "name": "express-graphql-apollo-server-sequelize-mysql-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.18.2",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "graphql": "^15.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
