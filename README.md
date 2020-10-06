@@ -1,3 +1,6 @@
+# Express, Apollo-Server-Express 2, GraphQL, Sequelize, MySQL, JWT-Auth
+
+
 NOTE : sequelize -> User.findById IS NOW : User.findByPk
 
 ```bash
